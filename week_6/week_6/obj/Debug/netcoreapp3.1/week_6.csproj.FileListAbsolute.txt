@@ -1,0 +1,13 @@
+C:\Users\nikit\OneDrive\Рабочий стол\С#\week_6\week_6\bin\Debug\netcoreapp3.1\week_6.exe
+C:\Users\nikit\OneDrive\Рабочий стол\С#\week_6\week_6\bin\Debug\netcoreapp3.1\week_6.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\С#\week_6\week_6\bin\Debug\netcoreapp3.1\week_6.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\С#\week_6\week_6\bin\Debug\netcoreapp3.1\week_6.runtimeconfig.dev.json
+C:\Users\nikit\OneDrive\Рабочий стол\С#\week_6\week_6\bin\Debug\netcoreapp3.1\week_6.dll
+C:\Users\nikit\OneDrive\Рабочий стол\С#\week_6\week_6\bin\Debug\netcoreapp3.1\week_6.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\С#\week_6\week_6\obj\Debug\netcoreapp3.1\week_6.csprojAssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\С#\week_6\week_6\obj\Debug\netcoreapp3.1\week_6.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\С#\week_6\week_6\obj\Debug\netcoreapp3.1\week_6.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\С#\week_6\week_6\obj\Debug\netcoreapp3.1\week_6.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\С#\week_6\week_6\obj\Debug\netcoreapp3.1\week_6.dll
+C:\Users\nikit\OneDrive\Рабочий стол\С#\week_6\week_6\obj\Debug\netcoreapp3.1\week_6.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\С#\week_6\week_6\obj\Debug\netcoreapp3.1\week_6.genruntimeconfig.cache
